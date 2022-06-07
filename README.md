@@ -1,2 +1,2 @@
-# pp_calculator
+# calculator
 On jQuery
