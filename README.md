@@ -1,2 +1,2 @@
 # calculator
-On jQuery
+Calculator on jQuery
